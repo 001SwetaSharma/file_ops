@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sweta Kumari",
+        "job": "Software Engineer",
+        "city": "Bangalore",
+        "phone": "8884021734"
+    },
+    {
+        "name": "Ankur Raj",
+        "job": "Operations Manager",
+        "city": "Bangalore",
+        "phone": "7353764443"
+    },
+    {
+        "name": "Bella",
+        "job": "Labrador",
+        "city": "Bangalore",
+        "phone": "7353764441"
+    },
+    {
+        "name": "Cookie",
+        "job": "Rottweiler",
+        "city": "Bangalore",
+        "phone": "8884021734"
+    }
+]
